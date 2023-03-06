@@ -1,6 +1,8 @@
 /*
  * Datasheet for PIR Motion sensor:
  * https://cdn-learn.adafruit.com/downloads/pdf/pir-passive-infrared-proximity-motion-sensor.pdf
+ *
+ * See “Sensitivity Adjustment” and “Time-Delay Adjusment at: https://lastminuteengineers.com/pir-sensor-arduino-tutorial/ 
  */
 
 #define PIR_PIN 7
