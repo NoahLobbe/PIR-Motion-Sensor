@@ -10,7 +10,7 @@ Learning how to use a PIR Motion sensor (BISS0001) with an Arduino Uno Rev3.
 Datasheet for the BISS0001 IC chip is included, but link is: https://datasheet-pdf.com/PDF/BISS0001-Datasheet-ETC-990806
 
 ### Code Notes
-`pir_sensor_original` is modified code from https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/ (PDF version: https://cdn-learn.adafruit.com/downloads/pdf/pir-passive-infrared-proximity-motion-sensor.pdf); thanks 'lady ada'!
+`pir_sensor_original` is modified code from https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/ (PDF version included and here: https://cdn-learn.adafruit.com/downloads/pdf/pir-passive-infrared-proximity-motion-sensor.pdf); thanks 'lady ada'!
 
 ### Fritzing
 Original: ![original PIR Motion sensor fritzing](https://user-images.githubusercontent.com/115848968/223010617-062b6e08-7660-4d50-b427-2d8c75b99b49.png)
