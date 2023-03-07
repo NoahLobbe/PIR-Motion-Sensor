@@ -8,9 +8,9 @@
 #include "notes.h" //import all the note frequency values from the notes.h file
 
 //pin definitions
-#define PIR_PIN 7
+#define PIR_PIN 2
 #define LED_PIN 13 //builtin LED
-#define PIEZO_PIN 2
+#define PIEZO_PIN 3
 #define DEBUG_MODE false
 
 //set alarm constants
