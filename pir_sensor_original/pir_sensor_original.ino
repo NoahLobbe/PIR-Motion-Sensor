@@ -6,7 +6,7 @@
  */
 
 //Set pin definitions
-#define PIR_PIN 7
+#define PIR_PIN 2
 #define LED_PIN 13 //builtin LED
 
 //Setup variables
