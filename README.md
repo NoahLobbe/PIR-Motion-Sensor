@@ -1,6 +1,6 @@
 # PIR-Motion-Sensor
 Learning how to use a PIR Motion sensor (BISS0001) with an Arduino Uno Rev3.
-[BIS0001 PIR Motion sensor - Arduino | YouTube](https://www.youtube.com/watch?v=OfII7iY5S7A)
+![BIS0001 PIR Motion sensor - Arduino | YouTube](https://www.youtube.com/watch?v=OfII7iY5S7A)
 
 ### Materials/Components
 - Arduino (Uno Rev3 used)
@@ -16,4 +16,5 @@ Datasheet for the BISS0001 IC chip is included, but link is: https://datasheet-p
 
 ### Fritzing
 Original: ![original PIR Motion sensor fritzing](https://user-images.githubusercontent.com/115848968/223010617-062b6e08-7660-4d50-b427-2d8c75b99b49.png)
-Modified: ![Annotated PIR Motino sensor fritzing](https://user-images.githubusercontent.com/115848968/223894265-88d7c8ee-cd7f-4601-86f3-bab1e84ea9b7.png)
+Modified: ![modified pir motion sensor fritzing](https://user-images.githubusercontent.com/115848968/223894422-ea0fff85-6ecf-4c23-8b79-aa17ff0c1842.png)
+
