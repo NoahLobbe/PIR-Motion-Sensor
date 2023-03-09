@@ -1,6 +1,6 @@
 # PIR-Motion-Sensor
 Learning how to use a PIR Motion sensor (BISS0001) with an Arduino Uno Rev3.
-![BIS0001 PIR Motion sensor - Arduino | YouTube](https://www.youtube.com/watch?v=OfII7iY5S7A)
+[BIS0001 PIR Motion sensor - Arduino | YouTube](https://www.youtube.com/watch?v=OfII7iY5S7A)
 
 ### Materials/Components
 - Arduino (Uno Rev3 used)
